@@ -15,3 +15,12 @@
 /data/publiccms/history/
 /data/publiccms/temp/
 /data/publiccms/template/cache/
+
+/publiccms-parent/publiccms/data/publiccms/database.properties
+/publiccms-parent/publiccms/data/publiccms/install.lock
+/publiccms-parent/publiccms/data/publiccms/license.dat
+/publiccms-parent/publiccms/data/publiccms/indexes/
+/publiccms-parent/publiccms/data/publiccms/backup/
+/publiccms-parent/publiccms/data/publiccms/history/
+/publiccms-parent/publiccms/data/publiccms/temp/
+/publiccms-parent/publiccms/data/publiccms/template/cache/
