@@ -3,6 +3,7 @@ group = 'com.publiccms'
 dependencies {
     compile project(':publiccms-common')
     compile (
+        "javax.annotation:javax.annotation-api:1.3.2",
         "com.zaxxer:HikariCP:${hikariCPVersion}",
         // http://mvnrepository.com/artifact/mysql/mysql-connector-java
         "mysql:mysql-connector-java:${mysqlVersion}",
